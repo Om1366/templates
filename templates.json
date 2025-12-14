@@ -3,12 +3,24 @@
     "id": "modern",
     "name": "Modern Resume",
     "layout": "modern",
-    "source": "api"
+    "sections": [
+      "header",
+      "summary",
+      "experience",
+      "education",
+      "skills"
+    ]
   },
   {
     "id": "classic",
     "name": "Classic Resume",
     "layout": "classic",
-    "source": "api"
+    "sections": [
+      "header",
+      "education",
+      "experience",
+      "skills"
+    ]
   }
 ]
+
