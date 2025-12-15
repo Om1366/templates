@@ -1,26 +1,20 @@
 [
   {
     "id": "modern",
-    "name": "Modern Resume",
+    "name": "Modern Professional",
     "layout": "modern",
-    "sections": [
-      "header",
-      "summary",
-      "experience",
-      "education",
-      "skills"
-    ]
+    "sections": ["header", "summary", "experience", "education", "skills"]
   },
   {
     "id": "classic",
-    "name": "Classic Resume",
+    "name": "Classic Academic",
     "layout": "classic",
-    "sections": [
-      "header",
-      "education",
-      "experience",
-      "skills"
-    ]
+    "sections": ["header", "education", "experience", "skills"]
+  },
+  {
+    "id": "minimal",
+    "name": "Minimal Clean",
+    "layout": "minimal",
+    "sections": ["header", "summary", "experience", "skills"]
   }
 ]
-
